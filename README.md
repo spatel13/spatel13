@@ -5,7 +5,7 @@
 ---
 
 ## I am also lurking on ⚡
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'>](https://www.linkedin.com/in/catalinpit/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='20'>](https://www.instagram.com/sypatel13/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='20'>](https://twitter.com/@sypatel13) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='20'>](https://sahilpatel.io) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='website' height='25'>](https://dev.to/spatel13)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'>](https://www.linkedin.com/in/spatel32/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='20'>](https://www.instagram.com/sypatel13/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='20'>](https://twitter.com/@sypatel13) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='20'>](https://sahilpatel.io) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='website' height='25'>](https://dev.to/spatel13)
 
 ---
 
